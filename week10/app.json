@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "week11",
-    "slug": "week11",
+    "name": "week10",
+    "slug": "week10",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -20,7 +20,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.anonymous.week11"
+      "package": "com.anonymous.week10"
     },
     "web": {
       "favicon": "./assets/favicon.png"
