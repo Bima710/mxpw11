@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "779584871805",
+    "project_id": "mobilecrossweek11-5c3c8",
+    "storage_bucket": "mobilecrossweek11-5c3c8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779584871805:android:7d873a3f3856c57d0a0014",
+        "android_client_info": {
+          "package_name": "com.umn.mxpw11"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_9tlTiLLzaa0l0s3L5Gi44fXU0yLxK_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
